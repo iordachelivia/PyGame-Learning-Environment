@@ -1,5 +1,11 @@
 # PyGame-Learning-Environment
 
+##Modifications
+Added pixelcopter_v2 game:
+* 3 actions : up, down, None
+* no negative rewards
+* positive reward only when passing blocks (sparser rewards)		
+
 ![Games](ple_games.jpg?raw=True "Games!")
 
 **PyGame Learning Environment (PLE)** is a learning environment, mimicking the [Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment) interface, allowing a quick start to Reinforcement Learning in Python. The goal of PLE is allow practitioners to focus design of models and experiments instead of environment design.
