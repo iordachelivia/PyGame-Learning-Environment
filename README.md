@@ -1,6 +1,7 @@
 # PyGame-Learning-Environment
 
-##Modifications
+## Modifications
+
 Added pixelcopter_v2 game:
 * 3 actions : up, down, None
 * no negative rewards
